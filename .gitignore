@@ -1,0 +1,7 @@
+# Never upload these to GitHub
+*.txt
+~$*
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
